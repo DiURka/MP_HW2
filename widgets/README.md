@@ -34,8 +34,11 @@ This command will build and run the app. You should see the app's UI displaying 
 
 The app is organized as follows:
 
+
 The GreetingWidget is a stateless widget that displays a greeting message with custom text styles.
+
 The CounterWidget is a stateful widget that displays a counter, starting at 0, and increments when the "Increment" button is pressed.
+
 The main function in the main.dart file sets up the app's basic structure and layout.
 
 Feel free to explore and modify the code to learn more about stateless and stateful widgets in Flutter.
