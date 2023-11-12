@@ -1,9 +1,9 @@
-Widgets Practice App
+# Widgets Practice App
 
 This Flutter app demonstrates the use of stateless and stateful widgets to display a greeting message and a counter that can be incremented. Follow the instructions below to run the app onyour local development environment.
 
 
-# Widgets
+## Widgets
 
 state_widgets_practice
 
@@ -13,7 +13,7 @@ Make sure you have the following software installed:
 
 Flutter: Follow the official Flutter installation guide to set up Flutter on your machine.
 
-### Getting Started
+## Getting Started
 
 Clone this repository to your local machine using Git or download the code as a ZIP file and extract it.
 
@@ -30,7 +30,7 @@ Run the Flutter app on your emulator or physical device:
 This command will build and run the app. You should see the app's UI displaying a greeting message and a counter button.
 
 
-App Structure
+### App Structure
 
 The app is organized as follows:
 
