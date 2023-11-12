@@ -11,7 +11,7 @@ state_widgets_practice
 
 Make sure you have the following software installed:
 
-Flutter: Follow the official Flutter installation guide to set up Flutter on your machine.
+Flutter: Follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install) to set up Flutter on your machine.
 
 ## Getting Started
 
